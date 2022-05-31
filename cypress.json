@@ -7,7 +7,6 @@
       "reportingRunEnvironment": "STAGE",
       "reportingRunBuild": "1.0-alpha",
       "reportingRunDisplayName": "My regression suite",
-      "reportingRunLocale": "en_US",
-      "reportingCiRunId": "new test112121232eddsdc3323e3e2432432423324"
+      "reportingRunLocale": "en_US"
   }
 }
