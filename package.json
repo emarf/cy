@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/emarf/cy#readme",
   "dependencies": {
-    "@zebrunner/javascript-agent-cypress": "^1.0.25-alpha",
+    "@zebrunner/javascript-agent-cypress": "^1.0.26-alpha",
     "cypress": "^9.7.0"
   }
 }
