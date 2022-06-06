@@ -1,12 +1,13 @@
 {
-  "reporter": "@zebrunner/javascript-agent-cypress",
-  "reporterOptions": {
-      "reportingServerHostname": "https://webdriver.zebrunner.com",
-      "reportingServerAccessToken": "AujNFsqMWCzf5bFt4kCtrRVDd1aFqQT9EbhDV6EvG7ubcI5cMt",
-      "reportingProjectKey": "DEF",
-      "reportingRunEnvironment": "STAGE",
-      "reportingRunBuild": "1.0-alpha",
-      "reportingRunDisplayName": "My regression suite",
-      "reportingRunLocale": "en_US"
-  }
+    "viewportWidth": 1600,
+    "viewportHeight": 800,
+    "video": true,
+    "projectId": "kyjhjn",
+    "retries": {
+        "runMode": 2
+    },
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporter-config.json"
+    }
 }

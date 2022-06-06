@@ -1,0 +1,34 @@
+{
+    "TESTING_PLATFORMS": {
+        "ZEBRUNNER_ENGINE": "Zebrunner Engine",
+        "MCLOUD": "MCloud",
+        "BROWSERSTACK": "BrowserStack",
+        "SAUCE_LABS": "Sauce Labs",
+        "LAMBDA_TEST": "LambdaTest",
+        "TESTING_BOT": "TestingBot"
+    },
+    "TEST_CASES_BUG_TRACKING": {
+        "TEST_RAIL": "TestRail",
+        "JIRA": "Jira",
+        "Q_TEST": "Qtest"
+    },
+    "MESSAGING_AND_NOTIFICATIONS": {
+        "SLACK": "Slack",
+        "MICROSOFT_TEAMS": "Microsoft Teams"
+    },
+    "TEST_AUTOMATION_FRAMEWORKS": {
+        "CARINA": "Carina",
+        "TEST_NG": "TestNG",
+        "JUNIT": "JUnit",
+        "JUNIT_5": "JUnit5",
+        "PY_TEST": "PyTest",
+        "CYPRESS": "Cypress",
+        "NUNIT": "NUnit"
+    },
+    "CI_SERVERS": {
+        "JENKINS": "Jenkins",
+        "TEAM_CITY": "TeamCity",
+        "CIRCLE_CI": "CircleCI",
+        "TRAVIS_CI": "Travis CI"
+    }
+}

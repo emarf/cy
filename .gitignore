@@ -1,2 +1,6 @@
-temp
 node_modules
+cypress/results
+cypress/mochawesome-report
+cypress/screenshots
+cypress/zbr-report
+cypress/videos

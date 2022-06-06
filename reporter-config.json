@@ -1,0 +1,20 @@
+{
+    "reporterEnabled": "@zebrunner/javascript-agent-cypress, mocha-junit-reporter",
+    "mochaJunitReporterReporterOptions": {
+        "mochaFile": "cypress/mochawesome-report/results-[hash].xml"
+    },
+    "reporterOptions": {
+        "reportingServerHostname": "https://webdriver.zebrunner.com",
+        "reportingServerAccessToken": "AujNFsqMWCzf5bFt4kCtrRVDd1aFqQT9EbhDV6EvG7ubcI5cMt",
+        "reportingProjectKey": "ZEB",
+        "reportingRunEnvironment": "QA",
+        "reportingRunBuild": "1.2.32",
+        "reportingRunLocale": "en_US",
+        "reportingTestrailEnabled": true,
+        "reportingTestrailTestrunID": "21",
+        "reportingTestrailSuiteId": "242",
+        "reportingXrayEnabled": true,
+        "reportingDebugLogging": true,
+        "reportingXrayTestExecutionKey": "com.zebrunner.app/tcm.xray.test-execution-key"
+    }
+}
